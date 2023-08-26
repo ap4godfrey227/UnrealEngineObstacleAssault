@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "F:\\Program Files (x86)\\Literal Garbage\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\Source\\ObstacleAssault\\MovingPlatform.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "F:\\Program Files (x86)\\Literal Garbage\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "F:\\Program Files (x86)\\Literal Garbage\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "F:\\Program Files (x86)\\Literal Garbage\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\ap4go\\OneDrive\\Desktop\\Udemy Unreal Engine\\Project2\\ObstacleAssault\\.vscode\\compileCommands_Default\\ObstacleAssault.249.rsp"
+		],
+		"directory": "F:\\Program Files (x86)\\Literal Garbage\\UE_5.1\\Engine\\Source"
+	}
+]
